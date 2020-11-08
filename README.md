@@ -1,2 +1,2 @@
 # Pandas-Basics
-Retrieving and knowing the data 
+1) Retrieving and knowing the data 
